@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\Registration\Registration\bin\Debug\Registration.exe.config
+d:\documents\visual studio 2015\Projects\Registration\Registration\bin\Debug\Registration.exe
+d:\documents\visual studio 2015\Projects\Registration\Registration\bin\Debug\Registration.pdb
+d:\documents\visual studio 2015\Projects\Registration\Registration\bin\Debug\Registration.xml
+d:\documents\visual studio 2015\Projects\Registration\Registration\obj\Debug\Registration.vbprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Registration\Registration\obj\Debug\Registration.Resources.resources
+d:\documents\visual studio 2015\Projects\Registration\Registration\obj\Debug\Registration.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Registration\Registration\obj\Debug\Registration.exe
+d:\documents\visual studio 2015\Projects\Registration\Registration\obj\Debug\Registration.xml
+d:\documents\visual studio 2015\Projects\Registration\Registration\obj\Debug\Registration.pdb
+d:\documents\visual studio 2015\Projects\Registration\Registration\obj\Debug\Registration.frmRegistration.resources
