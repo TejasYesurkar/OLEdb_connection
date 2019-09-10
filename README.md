@@ -10,3 +10,10 @@ Initialize OLE.
 2)Issue a command.
 3)Process the results.
 4)Release the data source object and uninitialize OLE.
+
+
+Connection String :::
+
+    A)Connection String For connect To MSSQL Database
+        Provider=sqloledb;Data Source=myServerAddress;Initial Catalog=myDataBase;User Id=myUsername;Password=myPassword;
+    
