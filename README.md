@@ -17,3 +17,7 @@ Connection String :::
     A)Connection String For connect To MSSQL Database
         Provider=sqloledb;Data Source=myServerAddress;Initial Catalog=myDataBase;User Id=myUsername;Password=myPassword;
     
+    B)Connection String For connect To Access Database
+        Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\myFolder\myAccessFile.accdb;
+        Jet OLEDB:Database Password=MyDbPassword;
+    
