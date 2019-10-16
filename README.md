@@ -20,4 +20,6 @@ Connection String :::
     B)Connection String For connect To Access Database
         Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\myFolder\myAccessFile.accdb;
         Jet OLEDB:Database Password=MyDbPassword;
-    
+        
+    C)Connection to a SQL Server instance
+        Provider=Provider=sqloledb;Server=MyServerName\InstanceName ;Database=DBName;User Id=Username;Password = EnterPassword;
